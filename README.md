@@ -1,3 +1,3 @@
 # snake-game
 Snake Game
-clone from https://codepen.io/fariati/pen/mdRpEYP           
+clone and modify from https://codepen.io/fariati/pen/mdRpEYP           
